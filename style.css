@@ -1,0 +1,36 @@
+body {
+   margin-left: 20px;
+   background: #1A1A1A;
+   font-family: "Lucida Console", Monaco, Courier, monospace;
+   font-size: large;
+   color: white;
+}
+
+div {
+	clear: both;
+}
+
+pre {
+	font-family: inherit;
+	font-size: inherit;
+}
+
+.a {
+    color: #75A5FF;
+ }
+
+.d {
+   color: #F88825;
+}
+
+.n {
+    color: white;
+ }
+
+.t {
+   color: #6666FF;
+}
+
+.v {
+   color: #FF8080;
+}
